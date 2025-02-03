@@ -1,4 +1,4 @@
-# FootBrawler
+# FootBrawler.java
 
 
 This project heavily focuses on classes and object which is what ive leanrt early on before making this project. If your not familiar with this type of game it basically consists of a barat the bottom which you could move left and right using certain keys, in this prject i use the MousedPressed method to make my own choices of what keys to use to which i made X the key to move right and Z to move left. 
